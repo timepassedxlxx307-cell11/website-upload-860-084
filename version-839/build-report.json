@@ -1,0 +1,23 @@
+{
+    "movies_parsed": 2000,
+    "movie_detail_pages": 2000,
+    "html_pages": 2014,
+    "baidu_html_pages": 2014,
+    "category_pages": 10,
+    "category_coverage": 2000,
+    "player_pages": 2000,
+    "image_files_in_zip": 0,
+    "m3u8_sources": 20,
+    "category_distribution": {
+        "国产精选": 200,
+        "高清剧集": 200,
+        "日剧动漫": 200,
+        "悬疑惊悚": 200,
+        "动作冒险": 200,
+        "爱情治愈": 200,
+        "喜剧片库": 200,
+        "科幻奇幻": 200,
+        "纪实专题": 200,
+        "海外热映": 200
+    }
+}
